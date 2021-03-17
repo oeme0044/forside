@@ -87,6 +87,11 @@
     width: calc(50% - 20px);
   }
 }
+@media screen and (min-width: 1200px) {
+  .kolumme{
+    width: calc(33.333% - 20px);
+  }
+}
 
 .line{
   margin: auto;

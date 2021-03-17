@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 *{
 	margin:0;
@@ -20,6 +19,10 @@ ul{
 .footer{
 	background-color: #0D2240;
 	padding: 70px 0;
+
+
+
+
 }
 .footer-col{
 	width: 25%;
@@ -38,7 +41,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #e91e63;
+	background-color: #EBB700;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -52,7 +55,6 @@ ul{
 	color: #ffffff;
 	text-decoration: none;
 	font-weight: 300;
-	color: #bbbbbb;
 	display: block;
 	transition: all 0.3s ease;
 }

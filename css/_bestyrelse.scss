@@ -1,0 +1,43 @@
+$primary:#0D2240;
+$secondary:#EBB700;
+$margin: 0 auto;
+
+.line{
+  margin:0;
+  margin-bottom: 15px;
+  height: 7px;
+  width: 60%;
+}
+
+
+
+.container{
+  margin-top: 100px;
+
+  .center{
+    margin:$margin;
+    width: 80%;
+
+    .row{
+      margin:$margin;
+      width: 100%;
+
+      .card{
+        margin:$margin;
+        width: 100%;
+
+        .card-img-top{
+          padding: 10px 10px 10px 10px;
+        }
+
+
+      }
+    }
+  }
+}
+
+
+
+
+
+

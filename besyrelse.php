@@ -27,14 +27,151 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-<div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="..." alt="Card image cap">
+
+<div class="headline">
+     <h1>Bestyrelse</h1>
+
+</div>
+
+<div class="container">
+    <div class="center">
+    <div class="row">
+        <div class="col-12 col-md-6 col-xl-4">
+<div class="card border-primary" style="width: 18rem;">
+    <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
     <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title mb-0">Rone Chortzen</h5>
+        <div class="line bg-secondary"></div>
+        <p class="card-text">Præsident<br>
+            Vestensborg Allé 55<br>
+            4800 Nykøbing F.<br>
+            Tlf 20531177</p>
     </div>
 </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-xl-4">
+    <div class="card border-primary" style="width: 18rem;">
+        <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
+        <div class="card-body">
+            <h5 class="card-title mb-0">Jens Hansen</h5>
+            <div class="line bg-secondary"></div>
+            <p class="card-text">Vicepræsident<br>
+                Bispegade 26<br>
+                4800 Nykøbing F.<br>
+                Tlf 26788435</p>
+        </div>
+    </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-xl-4">
+    <div class="card border-primary" style="width: 18rem;">
+        <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
+        <div class="card-body">
+            <h5 class="card-title mb-0">Peter Dall</h5>
+            <div class="line bg-secondary"></div>
+            <p class="card-text">Sekretær og Kasserer<br>
+                Kystvej 2<br>
+                4800 Nykøbing F.<br>
+                Tlf 20240128</p>
+        </div>
+    </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-xl-4">
+            <div class="card border-primary" style="width: 18rem;">
+                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
+                <div class="card-body">
+                    <h5 class="card-title mb-0">Peter Dall</h5>
+                    <div class="line bg-secondary"></div>
+                    <p class="card-text">Sekretær og Kasserer<br>
+                        Kystvej 2<br>
+                        4800 Nykøbing F.<br>
+                        Tlf 20240128</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-xl-4">
+            <div class="card border-primary" style="width: 18rem;">
+                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
+                <div class="card-body">
+                    <h5 class="card-title mb-0">Peter Dall</h5>
+                    <div class="line bg-secondary"></div>
+                    <p class="card-text">Sekretær og Kasserer<br>
+                        Kystvej 2<br>
+                        4800 Nykøbing F.<br>
+                        Tlf 20240128</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-xl-4">
+            <div class="card border-primary" style="width: 18rem;">
+                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
+                <div class="card-body">
+                    <h5 class="card-title mb-0">Peter Dall</h5>
+                    <div class="line bg-secondary"></div>
+                    <p class="card-text">Sekretær og Kasserer<br>
+                        Kystvej 2<br>
+                        4800 Nykøbing F.<br>
+                        Tlf 20240128</p>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    </div>
+</div>
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col">
+                <h4>company</h4>
+                <ul>
+                    <li><a href="#">about us</a></li>
+                    <li><a href="#">our services</a></li>
+                    <li><a href="#">privacy policy</a></li>
+                    <li><a href="#">affiliate program</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>get help</h4>
+                <ul>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">shipping</a></li>
+                    <li><a href="#">returns</a></li>
+                    <li><a href="#">order status</a></li>
+
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>online shop</h4>
+                <ul>
+                    <li><a href="#">watch</a></li>
+                    <li><a href="#">bag</a></li>
+                    <li><a href="#">shoes</a></li>
+                    <li><a href="#">dress</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>follow us</h4>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
 <!-- Her skal sidens indhold ligge -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>

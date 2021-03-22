@@ -28,15 +28,21 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<div class="headline">
-     <h1>Bestyrelse</h1>
+
+
+
+<div class="hedline-wrapper">
+    <div class="headline">
+        <h1>Bestyrelse</h1>
+    </div>
 
 </div>
+
 
 <div class="container">
     <div class="center">
     <div class="row">
-        <div class="col-12 col-md-6 col-xl-4">
+        <div class="col-12 col-md-6 col-xl-4 mb-5">
 <div class="card border-primary" style="width: 18rem;">
     <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
     <div class="card-body">
@@ -50,7 +56,7 @@
 </div>
         </div>
 
-        <div class="col-12 col-md-6 col-xl-4">
+        <div class="col-12 col-md-6 col-xl-4 mb-5">
     <div class="card border-primary" style="width: 18rem;">
         <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
         <div class="card-body">
@@ -64,7 +70,7 @@
     </div>
         </div>
 
-        <div class="col-12 col-md-6 col-xl-4">
+        <div class="col-12 col-md-6 col-xl-4 mb-5">
     <div class="card border-primary" style="width: 18rem;">
         <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
         <div class="card-body">
@@ -78,55 +84,12 @@
     </div>
         </div>
 
-        <div class="col-12 col-md-6 col-xl-4">
-            <div class="card border-primary" style="width: 18rem;">
-                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
-                <div class="card-body">
-                    <h5 class="card-title mb-0">Peter Dall</h5>
-                    <div class="line bg-secondary"></div>
-                    <p class="card-text">Sekretær og Kasserer<br>
-                        Kystvej 2<br>
-                        4800 Nykøbing F.<br>
-                        Tlf 20240128</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-xl-4">
-            <div class="card border-primary" style="width: 18rem;">
-                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
-                <div class="card-body">
-                    <h5 class="card-title mb-0">Peter Dall</h5>
-                    <div class="line bg-secondary"></div>
-                    <p class="card-text">Sekretær og Kasserer<br>
-                        Kystvej 2<br>
-                        4800 Nykøbing F.<br>
-                        Tlf 20240128</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-xl-4">
-            <div class="card border-primary" style="width: 18rem;">
-                <img class="card-img-top" src="img/rone.png" alt="bestyrelse">
-                <div class="card-body">
-                    <h5 class="card-title mb-0">Peter Dall</h5>
-                    <div class="line bg-secondary"></div>
-                    <p class="card-text">Sekretær og Kasserer<br>
-                        Kystvej 2<br>
-                        4800 Nykøbing F.<br>
-                        Tlf 20240128</p>
-                </div>
-            </div>
-        </div>
-
-
     </div>
     </div>
 </div>
 
 
-<footer class="footer">
+<footer class="footer mt-5">
     <div class="container">
         <div class="row">
             <div class="footer-col">

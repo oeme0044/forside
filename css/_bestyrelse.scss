@@ -2,6 +2,12 @@ $primary:#0D2240;
 $secondary:#EBB700;
 $margin: 0 auto;
 
+
+.mt-5{
+  margin-top: 7rem !important;
+
+}
+
 .line{
   margin:0;
   margin-bottom: 15px;
@@ -9,6 +15,20 @@ $margin: 0 auto;
   width: 60%;
 }
 
+.hedline-wrapper {
+  margin-top: 50px;
+  margin-bottom: 5rem;
+
+
+  .headline{
+    margin: $margin;
+    width: 80%;
+    text-align: center;
+    font-family: "Helvetica Neue";
+  }
+
+
+}
 
 
 .container{
@@ -16,7 +36,7 @@ $margin: 0 auto;
 
   .center{
     margin:$margin;
-    width: 80%;
+    width: 100%;
 
     .row{
       margin:$margin;
@@ -34,7 +54,10 @@ $margin: 0 auto;
       }
     }
   }
+
 }
+
+
 
 
 

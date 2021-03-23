@@ -1,0 +1,59 @@
+
+
+
+.headline-wrapper-kontakt {
+  margin-top: 50px;
+  margin-bottom: 5rem;
+
+
+
+  .headline-kontakt{
+    margin: $margin;
+    width: 80%;
+    text-align: center;
+    font-family: "Helvetica Neue";
+
+  }
+
+
+}
+.container-label{
+  margin-left: 20px;
+  width: 80%;
+
+  .btn{
+    color: $secondary;
+    font-family: "Helvetica Neue";
+  }
+}
+
+
+.form-control{
+  width: 300px;
+}
+
+.lokation{
+  margin-top: 3rem;
+}
+
+iframe{
+  margin-left: 20px;
+  display: flex;
+
+  align-content: center;
+  justify-content: center;
+  margin-bottom: 70px;
+  width: 400px;
+  height: 350px;
+  border: 0;
+}
+
+.contact-wrapper{
+  margin-left: 20px;
+
+
+  p{
+    font-weight: normal;
+  }
+}
+

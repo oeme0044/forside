@@ -14,15 +14,8 @@ $custom-colors: (
  */
 
 $custom-colors: (
-"primary":#0D2240,
-"secondary":#EBB700,
-
+        "primary": #007bff
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
-
-
-
-
-
 
 @import "../node_modules/bootstrap/scss/bootstrap";

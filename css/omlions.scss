@@ -1,7 +1,6 @@
 
 
 
-
 .img {
   margin: auto;
   text-align: center;
@@ -21,7 +20,6 @@
 
 .container{
   max-width: 1170px;
-  margin:auto;
 }
 .row{
   display: flex;
@@ -94,6 +92,23 @@ ul{
   background-color: #ffffff;
 }
 
+.Overskrift{
+  padding-top: 50px;
+
+}
+
+.col-md-5{
+}
+
+.lead{
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
 /*responsive*/
 @media(max-width: 767px){
   .footer-col{
@@ -106,3 +121,6 @@ ul{
     width: 100%;
   }
 }
+
+
+

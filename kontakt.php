@@ -35,7 +35,9 @@
     </div>
 </div>
 
-<div class="container-label mt-5">
+<div class="container-wrapper">
+
+<div class="container-label">
 <form>
     <div class="mb-3">
         <label for="inputname" class="form-label mb-0">Fulde navn</label>
@@ -54,13 +56,14 @@
         <label for="exampleFormControlTextarea1" class="form-label">Din besked</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
     </div>
-    <button type="submit" class="btn btn-primary">Send</button>
+    <button type="submit" class="btn btn-primary mb-5">Send</button>
 </form>
 </div>
 
-<div class="lokation">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.7532120402575!2d11.871813815701305!3d54.766725675072735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30576e5d9771%3A0x8dbdf3fb08d81791!2sTv%C3%A6rgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1616368575279!5m2!1sda!2sdk" >dd</iframe>
-</div>
+
+    <div class="map-responsive">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.75321204575!2d11.871808451271209!3d54.76672567497608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30576e5d9771%3A0x8dbdf3fb08d81791!2sTv%C3%A6rgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1616453604438!5m2!1sda!2sdk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
 
 
 <div class="contact-wrapper">
@@ -71,6 +74,7 @@
     </div>
 </div>
 
+</div>
 
 <footer class="footer mt-5">
     <div class="container">
